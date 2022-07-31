@@ -46,7 +46,7 @@ Saving to Repo steps:
 Image can be found here: https://hub.docker.com/repository/docker/kalybor/dali_first_image
 
 
-What i learned about docker compose, swarm, stacks TO BE DONE
+What i learned about docker compose, swarm, stacks TO BE DONE.
 
 
 ### Task 4: CI/CD pipeline 
