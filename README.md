@@ -18,7 +18,34 @@ Created an ubuntu virtual machine on azure (later i deleted it since i dont need
 BONUS: I also created a shared library with a simple text output and built it in jenkins.
 
 ### Task 2: Introduction to Jenkins (Azure VM)
-TO BE DONE
+Different types of Jenkins Jobs:
+ - tbd
+
+Scripted & Declarative pipelines:
+ - tbd
+
+Jenkins agents and executors:
+ - Agents are the worker nodes that actually execute all the steps mentioned in a Job. Upon Job creation we have to assign an agent to it.
+ - Executor is a building block which allow a build to run on a node/agent. It is basically a "process ID".
+
+Create a job that clones:
+  - Demonstration
+
+Create any three jobs, where first job calls the other two in parallel:
+ - Demonstrate
+
+Install a sample plugin:
+ - Installed BlueOcean
+
+Parametrized Jenkins jobs:
+ - Demonstration
+
+
+
+Links: 
+ - https://www.youtube.com/watch?v=e1Y2sFW5nN0&ab_channel=Abhishek.Veeramalla
+ - https://narenchejara.medium.com/create-jenkin-job-and-clone-project-from-git-b513804d3089
+ - https://www.youtube.com/watch?v=hgqBGNPlLlU&ab_channel=AutomationStepbyStep
 
 ### Task 3: Introduction to Docker (on local or Azure VM)
 Successfully installed docker on my VM.
@@ -47,6 +74,8 @@ Image can be found here: https://hub.docker.com/repository/docker/kalybor/dali_f
 
 
 What i learned about docker compose, swarm, stacks TO BE DONE.
+
+Links: https://hemanta.io/how-to-push-a-docker-image-to-docker-hub/
 
 
 ### Task 4: CI/CD pipeline 
