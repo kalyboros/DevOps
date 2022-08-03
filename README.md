@@ -46,6 +46,7 @@ Links:
  - https://www.youtube.com/watch?v=e1Y2sFW5nN0&ab_channel=Abhishek.Veeramalla
  - https://narenchejara.medium.com/create-jenkin-job-and-clone-project-from-git-b513804d3089
  - https://www.youtube.com/watch?v=hgqBGNPlLlU&ab_channel=AutomationStepbyStep
+ - https://www.youtube.com/watch?v=pzbrVVy6ul4&ab_channel=ValaxyTechnologies
 
 ### Task 3: Introduction to Docker (on local or Azure VM)
 Successfully installed docker on my VM.
@@ -79,7 +80,10 @@ Links: https://hemanta.io/how-to-push-a-docker-image-to-docker-hub/
 
 
 ### Task 4: CI/CD pipeline 
-TO BE DONE
+
+
+### Tests
+Commit test 1 webhook
 
 ## Authors
 
